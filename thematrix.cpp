@@ -1,4 +1,4 @@
-//Pellegatti Alex 10/12/2025 versione 1.0.1
+//Pellegatti Alex 10/12/2025 versione 1.0.2
 #include<iostream>
 #include<stdlib.h>
 #include <stdio.h>
